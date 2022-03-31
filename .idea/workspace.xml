@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$/basic/process_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_abstart_class">
+  <component name="RunManager" selected="Python.search_engine">
     <configuration name="01_student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search_engine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/search_engine" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/func/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/search_engine/search_engine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.search_engine" />
         <item itemvalue="Python.04_abstart_class" />
         <item itemvalue="Python.03_extends" />
         <item itemvalue="Python.02_class_func" />
         <item itemvalue="Python.01_student" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647962097394</updated>
       <workItem from="1647962105620" duration="30712000" />
-      <workItem from="1648484350669" duration="13945000" />
+      <workItem from="1648484350669" duration="18164000" />
     </task>
     <servers />
   </component>
@@ -220,6 +220,16 @@
           <line>10</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/search_engine/search_engine.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/search_engine/search_engine.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -251,6 +261,7 @@
     <SUITE FILE_PATH="coverage/study$testControl.coverage" NAME="testControl Coverage Results" MODIFIED="1648056148587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/study$02_class_func.coverage" NAME="02_class_func Coverage Results" MODIFIED="1648572367554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/oop" />
     <SUITE FILE_PATH="coverage/study$func.coverage" NAME="func Coverage Results" MODIFIED="1648535810324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/func" />
+    <SUITE FILE_PATH="coverage/study$search_engine.coverage" NAME="search_engine Coverage Results" MODIFIED="1648578521884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/search_engine" />
     <SUITE FILE_PATH="coverage/study$testString.coverage" NAME="testString Coverage Results" MODIFIED="1648035648737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/study$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1647965972942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/study$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1648007789996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
